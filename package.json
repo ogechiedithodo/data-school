@@ -1,0 +1,11 @@
+{
+  "name": "week3-ci-demo",
+  "version": "1.0.0",
+  "description": "A simple project for learning Continuous Integration",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
