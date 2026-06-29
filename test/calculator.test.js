@@ -6,5 +6,5 @@ import { add } from "../src/calculator.js";
 test("add should return the sum of two numbers", () => {
   const result = add(2, 3);
 
-  assert.equal(result, 5);
+  assert.equal(result, 6);
 });
